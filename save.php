@@ -11,6 +11,8 @@ if(isset($_POST['student'])){
   
     echo $id.$student[$i]."<br>";
 
+
+
 }
 }
 ?>
